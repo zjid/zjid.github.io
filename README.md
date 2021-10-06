@@ -1,2 +1,2 @@
-# zjid.github.io
-Zakarias Januaji Indonesia
+Avatar
+![https://avatars.githubusercontent.com/u/10710267](https://github.com/zjid)
